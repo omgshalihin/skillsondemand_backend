@@ -2,12 +2,11 @@ debug: true
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://${MONGO_USER}:${MONGO_PWD}@cluster0.fhnnnvj.mongodb.net/${MONGO_DB}
-      database: ${MONGO_DB}
+      uri: mongodb+srv://${DB_USER}:${DB_PWD}@cluster0.f3owvmq.mongodb.net/${DB_NAME}
+      database: ${DB_NAME}
   logging:
     level:
       org:
         springframework:
           boot:
             autoconfigure: ERROR
-
