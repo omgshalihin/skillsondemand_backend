@@ -1,0 +1,17 @@
+se/salt/dev/jfs22/backend/repository/JpaProfessionalRepository.class
+se/salt/dev/jfs22/backend/controller/ProfessionalController.class
+se/salt/dev/jfs22/backend/controller/UserController.class
+se/salt/dev/jfs22/backend/model/ProfessionalHistory.class
+se/salt/dev/jfs22/backend/model/UserDTO.class
+se/salt/dev/jfs22/backend/model/UserHistoryDTO.class
+se/salt/dev/jfs22/backend/model/User.class
+se/salt/dev/jfs22/backend/model/UserHistory.class
+se/salt/dev/jfs22/backend/model/Professional.class
+se/salt/dev/jfs22/backend/BackendApplication.class
+se/salt/dev/jfs22/backend/repository/ProfessionalRepository.class
+se/salt/dev/jfs22/backend/service/AppService.class
+se/salt/dev/jfs22/backend/model/UserResDTO.class
+se/salt/dev/jfs22/backend/model/ProfessionalDTO.class
+se/salt/dev/jfs22/backend/model/UserAddressDTO.class
+se/salt/dev/jfs22/backend/repository/JpaUserRepository.class
+se/salt/dev/jfs22/backend/repository/UserRepository.class

@@ -1,0 +1,17 @@
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/Professional.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/repository/UserRepository.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/repository/JpaProfessionalRepository.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/BackendApplication.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/repository/JpaUserRepository.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/UserHistory.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/UserHistoryDTO.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/repository/ProfessionalRepository.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/ProfessionalDTO.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/controller/ProfessionalController.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/service/AppService.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/controller/UserController.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/UserResDTO.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/ProfessionalHistory.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/User.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/UserAddressDTO.java
+/Users/shalihin/salt/#personal-projects/hireme/skillsondemand_backend/src/main/java/se/salt/dev/jfs22/backend/model/UserDTO.java
