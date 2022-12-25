@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.MongoId;
 import java.util.ArrayList;
 import java.util.List;
 
-@Document("users")
+@Document("hiremeusers")
 public class User {
     @Id
     @MongoId(value = FieldType.OBJECT_ID)

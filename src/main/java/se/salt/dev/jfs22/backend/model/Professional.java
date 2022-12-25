@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.MongoId;
 import java.util.ArrayList;
 import java.util.List;
 
-@Document("professionals")
+@Document("hiremeprofessionals")
 public class Professional {
     @Id
     @MongoId(value = FieldType.OBJECT_ID)
